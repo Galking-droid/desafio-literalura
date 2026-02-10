@@ -45,6 +45,6 @@ Para ejecutar este proyecto, necesitarás configurar las siguientes variables de
 
 4. Configura las variables de entorno mencionadas arriba.
 
-5.Ejecuta la clase DesafioLiteraluraApplication.
+5. Ejecuta la clase DesafioLiteraluraApplication.
 
 Desarrollado por Joseph Gama - 2026.
